@@ -1,0 +1,4 @@
+初步分析需要用到的库包括
+bs4(弹幕爬取)
+pandas
+wordcloud
